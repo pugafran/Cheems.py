@@ -12,3 +12,6 @@ En caso de necesitar instalar Chromedriver:
 ## Como ejecutar el programa
 ``` python Cheems.py <Nº de teléfono> ```
 
+!["Logo Cheems.py"](misc/screenshot.png)
+
+Es muy probable que la primera vez se necesite escanear el QR, una vez hecho buscará la persona que coincida con el número de teléfono y enviará dos fotos, una dando los buenos días del día en concreto("Feliz Jueves"), y una imagen aleatoria de Cheems entre 31. Acto seguido entrará en suspensión hasta el día siguiente a la misma hora.
